@@ -20,7 +20,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJIDEA-blue?style=flat&logo=intellijidea&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
-### 🧪 Tech Stack - Python & ML
+## 🧪 Tech Stack - Python & ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
