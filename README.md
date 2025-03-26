@@ -1,6 +1,6 @@
 <!-- 애니메이션 배너 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Back-end+Framework+Engineer;Build+smart.+Build+solid." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Back-end+Framework+Engineer;Build+smart.+Build+solid." />
 </p>
 
 ---
