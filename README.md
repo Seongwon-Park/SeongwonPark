@@ -11,7 +11,7 @@
 
 ---
 
-## 💻 Tech Stack - Framework
+## 💻 Tech Stack - Web Spring Framework
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
